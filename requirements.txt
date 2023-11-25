@@ -1,0 +1,3 @@
+termcolor
+asn1crypto
+requests
